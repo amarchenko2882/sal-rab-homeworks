@@ -8,9 +8,9 @@ function calcShipping(sum, min, shipping) {
     // создайте переменную shippingSum
     let shippingSum;
     // если productsSum равно 0,
-    if productsSum >= 0;
+    if (productsSum >= 0);
     // то shippingSum присвоить значение 0
-    let shippingSum === 0;
+    alert(=== 0);
     // если productsSum Больше или равна freeShippingMinSum,
     // то shippingSum присвоить значение 0
     let freeShipping = shippingSum === 0;
